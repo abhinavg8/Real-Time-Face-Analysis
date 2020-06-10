@@ -7,5 +7,5 @@ This is a **Real Time Face Analysis**
     * Age
     * Gender
     
-![alt text](https://github.com/abhinavg8/Face-Emotion-Analysis/blob/master/sample.jpg?raw=true)
+!Sample Image(https://github.com/abhinavg8/Face-Emotion-Analysis/blob/master/sample.jpg?raw=true)
  
